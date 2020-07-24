@@ -35,6 +35,9 @@ Because the country is currently ballistic. If you think we have a wheel with wh
 **Kieran Bicheno is a former macroeconomist, News Corp news editor, and market researcher. He is currently the Managing editor at Standard Media, and technology consultant at both Progressive Creations and the Special Circumstances Group.**
 
 ## More from Kieran Bicheno
+
+[Click here for the online table of contents](https://github.com/KGBicheno/Articles/blob/master/README.md)
+
 - [[Data Science's exploitation phase is here and looks awfully familiar]]
 - [[You weren't fired because of COVID-19]]
 - [[How to write a headline from hell]]

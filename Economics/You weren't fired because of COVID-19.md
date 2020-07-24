@@ -109,6 +109,8 @@ Reactions
 
 ## More from Kieran Bicheno
 
+[Click here for the online table of contents](https://github.com/KGBicheno/Articles/blob/master/README.md)
+
 - [[Data Science's exploitation phase is here and looks awfully familiar]]
 - [[How to write a headline from hell]]
 

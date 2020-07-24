@@ -84,8 +84,9 @@ Reactions
 
 ## More from Kieran Bicheno
 
- -  [[Data Science's exploitation phase is here and looks awfully familiar]]
+[Click here for the online table of contents](https://github.com/KGBicheno/Articles/blob/master/README.md)
 
+ -  [[Data Science's exploitation phase is here and looks awfully familiar]]
  -  [[You weren't fired because of COVID-19]]
 
    [Kieran Bicheno on LinkedIn](https://www.linkedin.com/in/kieranbicheno/)
